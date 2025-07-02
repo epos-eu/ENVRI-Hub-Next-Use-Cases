@@ -1,4 +1,4 @@
-[
+
     {
       "ECV": "ECV01",
       "title": "SeaLevel",
@@ -55,4 +55,3 @@
       "listOfServices": ["Service1", "Service2", "Service3"],
       "sharingLinkUrl": "https://...."
     },
-  ]
