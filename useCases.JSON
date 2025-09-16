@@ -48,7 +48,6 @@
     "listOfServices": ["Service1", "Service2", "Service3"],
     "sharingLinkUrl": "https://...."
   },
-  
   {
     "ECV": "ECV_Ales1",
     "title": "Surface ocean temperature",
