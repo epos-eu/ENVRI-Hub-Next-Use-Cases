@@ -56,10 +56,10 @@
     "sharingLinkUrl": "https://catalogue.staging.envri.eu/?share=d7747a54-bb33-4a5a-9657-ffa316f86914"
   },
   {
-    "ECV": "ECV_Ales2"
-    "title": "Sea level stations"
-    "description": "Data from EPOS on Sea Level monitoring stations in Europe"
-    "listOfServices": ["EPOS - IOC Sealevel Monitoring Station List (as OGC WMS layer)"]
+    "ECV": "ECV_Ales2",
+    "title": "Sea level stations",
+    "description": "Data from EPOS on Sea Level monitoring stations in Europe",
+    "listOfServices": ["EPOS - IOC Sealevel Monitoring Station List (as OGC WMS layer)"],
     "sharingLinkUrl": "https://catalogue.staging.envri.eu/?share=8e45d6e8-617d-4043-bd53-fc6419670196"
   }
 ]
