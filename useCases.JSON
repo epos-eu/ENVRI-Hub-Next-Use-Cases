@@ -4,13 +4,13 @@
     "title": "Surface ocean temperature",
     "description": "Data from ARGO on EXV17/18: surface ocean temperature and sub-surface ocean temperature in Europe measured last month",
     "listOfServices": ["Argo - EXV17/EXV18 - surface ocean temperature and sub-surface ocean temperature"],
-    "sharingLinkUrl": "https://catalogue.staging.envri.eu/?share=d7747a54-bb33-4a5a-9657-ffa316f86914"
+    "sharingLinkUrl": "https://catalogue.staging.envri.eu/?share=e87f6bd7-65a1-4710-8d02-a77f44501806"
   },
   {
     "ECV": "ECV",
     "title": "Sea level stations",
     "description": "Data from EPOS on Sea Level monitoring stations in Europe",
     "listOfServices": ["EPOS - IOC Sealevel Monitoring Station List (as OGC WMS layer)"],
-    "sharingLinkUrl": "https://catalogue.staging.envri.eu/?share=8e45d6e8-617d-4043-bd53-fc6419670196"
+    "sharingLinkUrl": "https://catalogue.staging.envri.eu/?share=f4fb2fbb-399c-47fb-845e-c4bdffa251b8"
   }
 ]
