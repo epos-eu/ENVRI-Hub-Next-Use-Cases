@@ -12,5 +12,19 @@
     "description": "Data from EPOS on Sea Level monitoring stations in Europe",
     "listOfServices": ["EPOS - IOC Sealevel Monitoring Station List (as OGC WMS layer)"],
     "sharingLinkUrl": "https://catalogue.staging.envri.eu/?share=36a01238-b92c-4d4e-ba84-a60d2e54fef8"
+  }, 
+  {
+    "ECV": "ECV",
+    "title": "Surface ocean salinity and sub-surface ocean salinity",
+    "description": "Data from ARGO on EXV19/20: surface ocean salinity and sub-surface ocean salinity in Europe measured last week. ERDDAP data access service to Argo Float surface ocean salinity and sub-surface ocean salinity. The service is parameterized so that only data with good values and good spatio-temporal coordinates are collected and shown on the map. Salinity parameter corresponds to https://vocab.nerc.ac.uk/collection/EXV/current/EXV019/ and https://vocab.nerc.ac.uk/collection/EXV/current/EXV020/ (The EXV table is a programming implementation of Essential Variables including GCOS-defined Essential Climate Variables - https://gcos.wmo.int/site/global-climate-observing-system-gcos/essential-climate-variables/ - and of GOOS-defined Essential Ocean Variables - https://goosocean.org/what-we-do/framework/essential-ocean-variables/).",
+    "listOfServices": ["Argo - EXV19/EXV20 - surface ocean salinity and sub-surface ocean salinity"],
+    "sharingLinkUrl": "https://catalogue.staging.envri.eu/?share=e1a7ecc0-b1b7-4a8d-a8ac-14e6e695220b"
+  }, 
+  {
+    "ECV": "ECV",
+    "title": "DOXY - Dissolved Oxygen around Italy",
+    "description": "Data from ARGO on EXV28: DOXY around Italy. ERDDAP data access service to Argo Float ocean dissolved oxygen. The service is parameterized so that only data with good values and good spatio-temporal coordinates are collected and shown on the map. Dissolved oxygen parameter corresponds to https://vocab.nerc.ac.uk/collection/EXV/current/EXV028 (The EXV table is a programming implementation of Essential Variables including GCOS-defined Essential Climate Variables - https://gcos.wmo.int/site/global-climate-observing-system-gcos/essential-climate-variables/ - and of GOOS-defined Essential Ocean Variables - https://goosocean.org/what-we-do/framework/essential-ocean-variables/).",
+    "listOfServices": ["Argo - EXV28 - DOXY"],
+    "sharingLinkUrl": "https://catalogue.staging.envri.eu/?share=8bbfedcb-9fcd-4a98-bcb2-24b57bac1a9b"
   }
 ]
