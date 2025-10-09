@@ -26,5 +26,19 @@
     "description": "Data from ARGO on EXV28: DOXY around Italy. ERDDAP data access service to Argo Float ocean dissolved oxygen. The service is parameterized so that only data with good values and good spatio-temporal coordinates are collected and shown on the map. Dissolved oxygen parameter corresponds to https://vocab.nerc.ac.uk/collection/EXV/current/EXV028 (The EXV table is a programming implementation of Essential Variables including GCOS-defined Essential Climate Variables - https://gcos.wmo.int/site/global-climate-observing-system-gcos/essential-climate-variables/ - and of GOOS-defined Essential Ocean Variables - https://goosocean.org/what-we-do/framework/essential-ocean-variables/).",
     "listOfServices": ["Argo - EXV28 - DOXY"],
     "sharingLinkUrl": "https://catalogue.staging.envri.eu/?share=8bbfedcb-9fcd-4a98-bcb2-24b57bac1a9b"
+  }, 
+  {
+    "ECV": "ECV",
+    "title": "Nitrate in the North Atlantic region",
+    "description": "Data from ARGO on EXV29: Nitrate in the North Atlantic region. ERDDAP data access service to Argo Float ocean nitrate. The service is parameterized so that only data with good values and good spatio-temporal coordinates are collected and shown on the map. Nitrate parameter corresponds to https://vocab.nerc.ac.uk/collection/EXV/current/EXV029 (The EXV table is a programming implementation of Essential Variables including GCOS-defined Essential Climate Variables - https://gcos.wmo.int/site/global-climate-observing-system-gcos/essential-climate-variables/ - and of GOOS-defined Essential Ocean Variables - https://goosocean.org/what-we-do/framework/essential-ocean-variables/).",
+    "listOfServices": ["Argo - EXV29 - NITRATE"],
+    "sharingLinkUrl": "https://catalogue.staging.envri.eu/?share=d6347c1b-f8ea-4989-a940-378535ff594a"
+  }, 
+  {
+    "ECV": "ECV",
+    "title": "PH near Ireland",
+    "description": "Data from ARGO on EXV30 near Ireland: PH. ERDDAP data access service to Argo Float ocean pH. The service is parameterized so that only data with good values and good spatio-temporal coordinates are collected and shown on the map. pH parameter corresponds to https://vocab.nerc.ac.uk/collection/EXV/current/EXV030 (The EXV table is a programming implementation of Essential Variables including GCOS-defined Essential Climate Variables - https://gcos.wmo.int/site/global-climate-observing-system-gcos/essential-climate-variables/ - and of GOOS-defined Essential Ocean Variables - https://goosocean.org/what-we-do/framework/essential-ocean-variables/).",
+    "listOfServices": ["Argo - EXV30 - PH"],
+    "sharingLinkUrl": "https://catalogue.staging.envri.eu/?share=37b72092-6c26-4a73-8804-cfd33cf4706e"
   }
 ]
