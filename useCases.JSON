@@ -2,7 +2,7 @@
   {
     "ECV": "ECV",
     "title": "Surface ocean temperature",
-    "description": "Data from ARGO on EXV17/18: surface ocean temperature and sub-surface ocean temperature in Europe measured last month. ERDDAP data access service to Argo Float surface ocean temperature and sub-surface ocean temperature. The service is parameterized so that only data with good values and good spatio-temporal coordinates are collected and shown on the map. Temperature parameter corresponds to https://vocab.nerc.ac.uk/collection/EXV/current/EXV017 and https://vocab.nerc.ac.uk/collection/EXV/current/EXV018/ (The EXV table is a programming implementation of Essential Variables including GCOS-defined Essential Climate Variables - https://gcos.wmo.int/site/global-climate-observing-system-gcos/essential-climate-variables/ - and of GOOS-defined Essential Ocean Variables - https://goosocean.org/what-we-do/framework/essential-ocean-variables/).",
+    "description": "Data from ARGO on EXV17/18: surface and sub-surface ocean temperature in Europe measured last month. ERDDAP data access service to Argo Float surface ocean temperature and sub-surface ocean temperature. The service is parameterized so that only data with good values and good spatio-temporal coordinates are collected and shown on the map. Temperature parameter corresponds to https://vocab.nerc.ac.uk/collection/EXV/current/EXV017 and https://vocab.nerc.ac.uk/collection/EXV/current/EXV018/ (The EXV table is a programming implementation of Essential Variables including GCOS-defined Essential Climate Variables - https://gcos.wmo.int/site/global-climate-observing-system-gcos/essential-climate-variables/ - and of GOOS-defined Essential Ocean Variables - https://goosocean.org/what-we-do/framework/essential-ocean-variables/).",
     "listOfServices": ["Argo - EXV17/EXV18 - surface ocean temperature and sub-surface ocean temperature"],
     "sharingLinkUrl": "https://catalogue.staging.envri.eu/?share=94898cf2-a4cc-43a6-befa-7c150a90d0ce"
   },
@@ -15,7 +15,7 @@
   }, 
   {
     "ECV": "ECV",
-    "title": "Surface ocean salinity and sub-surface ocean salinity",
+    "title": "Surface and sub-surface ocean salinity",
     "description": "Data from ARGO on EXV19/20: surface ocean salinity and sub-surface ocean salinity in Europe measured last week. ERDDAP data access service to Argo Float surface ocean salinity and sub-surface ocean salinity. The service is parameterized so that only data with good values and good spatio-temporal coordinates are collected and shown on the map. Salinity parameter corresponds to https://vocab.nerc.ac.uk/collection/EXV/current/EXV019/ and https://vocab.nerc.ac.uk/collection/EXV/current/EXV020/ (The EXV table is a programming implementation of Essential Variables including GCOS-defined Essential Climate Variables - https://gcos.wmo.int/site/global-climate-observing-system-gcos/essential-climate-variables/ - and of GOOS-defined Essential Ocean Variables - https://goosocean.org/what-we-do/framework/essential-ocean-variables/).",
     "listOfServices": ["Argo - EXV19/EXV20 - surface ocean salinity and sub-surface ocean salinity"],
     "sharingLinkUrl": "https://catalogue.staging.envri.eu/?share=e1a7ecc0-b1b7-4a8d-a8ac-14e6e695220b"
