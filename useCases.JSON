@@ -40,5 +40,26 @@
     "description": "Data from ARGO on EXV30 near Ireland: PH. ERDDAP data access service to Argo Float ocean pH. The service is parameterized so that only data with good values and good spatio-temporal coordinates are collected and shown on the map. pH parameter corresponds to https://vocab.nerc.ac.uk/collection/EXV/current/EXV030 (The EXV table is a programming implementation of Essential Variables including GCOS-defined Essential Climate Variables - https://gcos.wmo.int/site/global-climate-observing-system-gcos/essential-climate-variables/ - and of GOOS-defined Essential Ocean Variables - https://goosocean.org/what-we-do/framework/essential-ocean-variables/).",
     "listOfServices": ["Argo - EXV30 - PH"],
     "sharingLinkUrl": "https://catalogue.staging.envri.eu/?share=37b72092-6c26-4a73-8804-cfd33cf4706e"
+  }, 
+  {
+    "ECV": "ECV",
+    "title": "Chlorophyll-a - CHLA",
+    "description": "Data from ARGO on EXV33 in Europe: CHLA. ERDDAP data access service to Argo Float ocean chorophyll-a. The service is parameterized so that only data with good values and good spatio-temporal coordinates are collected and shown on the map. Chlorophyll-a parameter corresponds to https://vocab.nerc.ac.uk/collection/EXV/current/EXV033 (The EXV table is a programming implementation of Essential Variables including GCOS-defined Essential Climate Variables - https://gcos.wmo.int/site/global-climate-observing-system-gcos/essential-climate-variables/ - and of GOOS-defined Essential Ocean Variables - https://goosocean.org/what-we-do/framework/essential-ocean-variables/).",
+    "listOfServices": ["Argo - EXV33 - CHLA"],
+    "sharingLinkUrl": "https://catalogue.staging.envri.eu/?share=460dda23-0ff6-4d17-9960-0dbd476fafbc"
+  }, 
+  {
+    "ECV": "ECV",
+    "title": "Ocean particle backscattering at 700 nm",
+    "description": "Data from ARGO on EXV33 in Europe: BBP700. ERDDAP data access service to Argo Float ocean particle backscattering at 700 nm. The service is parameterized so that only data with good values and good spatio-temporal coordinates are collected and shown on the map. Particle backscattering at 700 nm parameter corresponds to https://vocab.nerc.ac.uk/collection/EXV/current/EXV033 (The EXV table is a programming implementation of Essential Variables including GCOS-defined Essential Climate Variables - https://gcos.wmo.int/site/global-climate-observing-system-gcos/essential-climate-variables/ - and of GOOS-defined Essential Ocean Variables - https://goosocean.org/what-we-do/framework/essential-ocean-variables/).",
+    "listOfServices": ["Argo - EXV33 - BBP700"],
+    "sharingLinkUrl": "https://catalogue.staging.envri.eu/?share=7b69412c-edb2-412d-afc3-ff729bbcf98c"
+  }, 
+  {
+    "ECV": "ECV",
+    "title": "Irradiance in Europe",
+    "description": "Data from ARGO on EXV33 in Europe: Irradiance. ERDDAP data access service to Argo Float irradiance. The service is parameterized so that only data with good values and good spatio-temporal coordinates are collected and shown on the map. Irradiance parameter corresponds to https://vocab.nerc.ac.uk/collection/EXV/current/EXV033 (The EXV table is a programming implementation of Essential Variables including GCOS-defined Essential Climate Variables - https://gcos.wmo.int/site/global-climate-observing-system-gcos/essential-climate-variables/ - and of GOOS-defined Essential Ocean Variables - https://goosocean.org/what-we-do/framework/essential-ocean-variables/).",
+    "listOfServices": ["Argo - EXV33 - IRRADIANCE"],
+    "sharingLinkUrl": "https://catalogue.staging.envri.eu/?share=7b69412c-edb2-412d-afc3-ff729bbcf98c"
   }
 ]
