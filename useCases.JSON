@@ -2,7 +2,7 @@
   {
     "ECV": "ECV",
     "title": "Surface ocean temperature",
-    "description": "Data from ARGO on EXV17/18: surface ocean temperature and sub-surface ocean temperature in Europe measured last month",
+    "description": "Data from ARGO on EXV17/18: surface ocean temperature and sub-surface ocean temperature in Europe measured last month. ERDDAP data access service to Argo Float surface ocean temperature and sub-surface ocean temperature. The service is parameterized so that only data with good values and good spatio-temporal coordinates are collected and shown on the map. Temperature parameter corresponds to <a href="https://vocab.nerc.ac.uk/collection/EXV/current/EXV017/">https://vocab.nerc.ac.uk/collection/EXV/current/EXV017</a> and <a href="https://vocab.nerc.ac.uk/collection/EXV/current/EXV018/">https://vocab.nerc.ac.uk/collection/EXV/current/EXV018/</a> (The EXV table is a programming implementation of Essential Variables including <a href="https://gcos.wmo.int/site/global-climate-observing-system-gcos/essential-climate-variables/">GCOS-defined Essential Climate Variables</a> and of <a href="https://goosocean.org/what-we-do/framework/essential-ocean-variables/">GOOS-defined Essential Ocean Variables</a>).",
     "listOfServices": ["Argo - EXV17/EXV18 - surface ocean temperature and sub-surface ocean temperature"],
     "sharingLinkUrl": "https://catalogue.staging.envri.eu/?share=94898cf2-a4cc-43a6-befa-7c150a90d0ce"
   },
