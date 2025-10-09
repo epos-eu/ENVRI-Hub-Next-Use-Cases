@@ -8,8 +8,8 @@
   },
   {
     "ECV": "ECV",
-    "title": "Sea level stations",
-    "description": "Data from EPOS on Sea Level monitoring stations in Europe",
+    "title": "Sea level data from stations",
+    "description": "Data from EPOS on Sea Level monitoring stations in Europe. This WMS layer allows adding the the station-list into OGC compliant GIS tools. The list of dataproviders can be found on http://www.ioc-sealevelmonitoring.org. This service is adopted from the EPOS Platform (https://www.ics-c.epos-eu.org) and provided to the ENVRI Hub by EPOS ERIC.",
     "listOfServices": ["EPOS - IOC Sealevel Monitoring Station List (as OGC WMS layer)"],
     "sharingLinkUrl": "https://catalogue.staging.envri.eu/?share=36a01238-b92c-4d4e-ba84-a60d2e54fef8"
   }, 
