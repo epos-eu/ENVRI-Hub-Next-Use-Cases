@@ -60,6 +60,6 @@
     "title": "Irradiance in Europe",
     "description": "Data from ARGO on EXV33 in Europe: Irradiance. ERDDAP data access service to Argo Float irradiance. The service is parameterized so that only data with good values and good spatio-temporal coordinates are collected and shown on the map. Irradiance parameter corresponds to https://vocab.nerc.ac.uk/collection/EXV/current/EXV033 (The EXV table is a programming implementation of Essential Variables including GCOS-defined Essential Climate Variables - https://gcos.wmo.int/site/global-climate-observing-system-gcos/essential-climate-variables/ - and of GOOS-defined Essential Ocean Variables - https://goosocean.org/what-we-do/framework/essential-ocean-variables/).",
     "listOfServices": ["Argo - EXV33 - IRRADIANCE"],
-    "sharingLinkUrl": "https://catalogue.staging.envri.eu/?share=7b69412c-edb2-412d-afc3-ff729bbcf98c"
+    "sharingLinkUrl": "https://catalogue.staging.envri.eu/?share=53da2f7c-3ac9-4865-93d4-00998a6cc0d3"
   }
 ]
