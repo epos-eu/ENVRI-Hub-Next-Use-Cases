@@ -2,64 +2,64 @@
   {
     "ECV": "ECV",
     "title": "Surface ocean temperature",
-    "description": "Data from ARGO on EXV17/18: surface and sub-surface ocean temperature in Europe measured last month. ERDDAP data access service to Argo Float surface ocean temperature and sub-surface ocean temperature. The service is parameterized so that only data with good values and good spatio-temporal coordinates are collected and shown on the map. Temperature parameter corresponds to https://vocab.nerc.ac.uk/collection/EXV/current/EXV017 and https://vocab.nerc.ac.uk/collection/EXV/current/EXV018/ (The EXV table is a programming implementation of Essential Variables including GCOS-defined Essential Climate Variables - https://gcos.wmo.int/site/global-climate-observing-system-gcos/essential-climate-variables/ - and of GOOS-defined Essential Ocean Variables - https://goosocean.org/what-we-do/framework/essential-ocean-variables/).",
+    "description": "Data from ARGO on EXV17/18: surface and sub-surface ocean temperature in Europe measured for one month (up to 9/3/2026). ERDDAP data access service to Argo Float surface ocean temperature and sub-surface ocean temperature. The service is parameterized so that only data with good values and good spatio-temporal coordinates are collected and shown on the map. Temperature parameter corresponds to https://vocab.nerc.ac.uk/collection/EXV/current/EXV017 and https://vocab.nerc.ac.uk/collection/EXV/current/EXV018/ (The EXV table is a programming implementation of Essential Variables including GCOS-defined Essential Climate Variables - https://gcos.wmo.int/site/global-climate-observing-system-gcos/essential-climate-variables/ - and of GOOS-defined Essential Ocean Variables - https://goosocean.org/what-we-do/framework/essential-ocean-variables/).",
     "listOfServices": ["Argo - EXV17/EXV18 - surface ocean temperature and sub-surface ocean temperature"],
-    "sharingLinkUrl": "https://catalogue.staging.envri.eu/?share=94898cf2-a4cc-43a6-befa-7c150a90d0ce"
+    "sharingLinkUrl": "https://catalogue.envri.eu/?share=b6f96753-98d5-4cbb-bbf6-df960471df62"
   },
   {
     "ECV": "ECV",
     "title": "Sea level data from stations",
     "description": "Data from EPOS on Sea Level monitoring stations in Europe. This WMS layer allows adding the the station-list into OGC compliant GIS tools. The list of dataproviders can be found on http://www.ioc-sealevelmonitoring.org. This service is adopted from the EPOS Platform (https://www.ics-c.epos-eu.org) and provided to the ENVRI Hub by EPOS ERIC.",
     "listOfServices": ["EPOS - IOC Sealevel Monitoring Station List (as OGC WMS layer)"],
-    "sharingLinkUrl": "https://catalogue.staging.envri.eu/?share=36a01238-b92c-4d4e-ba84-a60d2e54fef8"
+    "sharingLinkUrl": "https://catalogue.envri.eu/?share=86a081b9-54de-4606-8e27-34946a94ae96"
   }, 
   {
     "ECV": "ECV",
     "title": "Surface and sub-surface ocean salinity",
-    "description": "Data from ARGO on EXV19/20: surface ocean salinity and sub-surface ocean salinity in Europe measured last week. ERDDAP data access service to Argo Float surface ocean salinity and sub-surface ocean salinity. The service is parameterized so that only data with good values and good spatio-temporal coordinates are collected and shown on the map. Salinity parameter corresponds to https://vocab.nerc.ac.uk/collection/EXV/current/EXV019/ and https://vocab.nerc.ac.uk/collection/EXV/current/EXV020/ (The EXV table is a programming implementation of Essential Variables including GCOS-defined Essential Climate Variables - https://gcos.wmo.int/site/global-climate-observing-system-gcos/essential-climate-variables/ - and of GOOS-defined Essential Ocean Variables - https://goosocean.org/what-we-do/framework/essential-ocean-variables/).",
+    "description": "Data from ARGO on EXV19/20: surface ocean salinity and sub-surface ocean salinity in Europe measured for one week (up to 9/3/2026). ERDDAP data access service to Argo Float surface ocean salinity and sub-surface ocean salinity. The service is parameterized so that only data with good values and good spatio-temporal coordinates are collected and shown on the map. Salinity parameter corresponds to https://vocab.nerc.ac.uk/collection/EXV/current/EXV019/ and https://vocab.nerc.ac.uk/collection/EXV/current/EXV020/ (The EXV table is a programming implementation of Essential Variables including GCOS-defined Essential Climate Variables - https://gcos.wmo.int/site/global-climate-observing-system-gcos/essential-climate-variables/ - and of GOOS-defined Essential Ocean Variables - https://goosocean.org/what-we-do/framework/essential-ocean-variables/).",
     "listOfServices": ["Argo - EXV19/EXV20 - surface ocean salinity and sub-surface ocean salinity"],
-    "sharingLinkUrl": "https://catalogue.staging.envri.eu/?share=e1a7ecc0-b1b7-4a8d-a8ac-14e6e695220b"
+    "sharingLinkUrl": "https://catalogue.envri.eu/?share=9e661063-93d9-403f-8eb7-d51794326124"
   }, 
   {
     "ECV": "ECV",
     "title": "DOXY - Dissolved Oxygen around Italy",
     "description": "Data from ARGO on EXV28: DOXY around Italy. ERDDAP data access service to Argo Float ocean dissolved oxygen. The service is parameterized so that only data with good values and good spatio-temporal coordinates are collected and shown on the map. Dissolved oxygen parameter corresponds to https://vocab.nerc.ac.uk/collection/EXV/current/EXV028 (The EXV table is a programming implementation of Essential Variables including GCOS-defined Essential Climate Variables - https://gcos.wmo.int/site/global-climate-observing-system-gcos/essential-climate-variables/ - and of GOOS-defined Essential Ocean Variables - https://goosocean.org/what-we-do/framework/essential-ocean-variables/).",
     "listOfServices": ["Argo - EXV28 - DOXY"],
-    "sharingLinkUrl": "https://catalogue.staging.envri.eu/?share=8bbfedcb-9fcd-4a98-bcb2-24b57bac1a9b"
+    "sharingLinkUrl": "https://catalogue.envri.eu/?share=714170ac-dd69-4061-8c00-8f5cd25b2b21"
   }, 
   {
     "ECV": "ECV",
     "title": "Nitrate in the North Atlantic region",
     "description": "Data from ARGO on EXV29: Nitrate in the North Atlantic region. ERDDAP data access service to Argo Float ocean nitrate. The service is parameterized so that only data with good values and good spatio-temporal coordinates are collected and shown on the map. Nitrate parameter corresponds to https://vocab.nerc.ac.uk/collection/EXV/current/EXV029 (The EXV table is a programming implementation of Essential Variables including GCOS-defined Essential Climate Variables - https://gcos.wmo.int/site/global-climate-observing-system-gcos/essential-climate-variables/ - and of GOOS-defined Essential Ocean Variables - https://goosocean.org/what-we-do/framework/essential-ocean-variables/).",
     "listOfServices": ["Argo - EXV29 - NITRATE"],
-    "sharingLinkUrl": "https://catalogue.staging.envri.eu/?share=d6347c1b-f8ea-4989-a940-378535ff594a"
+    "sharingLinkUrl": "https://catalogue.envri.eu/?share=554bcb1d-66d5-4e21-a90b-0a6526279f31"
   }, 
   {
     "ECV": "ECV",
     "title": "PH near Ireland",
     "description": "Data from ARGO on EXV30 near Ireland: PH. ERDDAP data access service to Argo Float ocean pH. The service is parameterized so that only data with good values and good spatio-temporal coordinates are collected and shown on the map. pH parameter corresponds to https://vocab.nerc.ac.uk/collection/EXV/current/EXV030 (The EXV table is a programming implementation of Essential Variables including GCOS-defined Essential Climate Variables - https://gcos.wmo.int/site/global-climate-observing-system-gcos/essential-climate-variables/ - and of GOOS-defined Essential Ocean Variables - https://goosocean.org/what-we-do/framework/essential-ocean-variables/).",
     "listOfServices": ["Argo - EXV30 - PH"],
-    "sharingLinkUrl": "https://catalogue.staging.envri.eu/?share=37b72092-6c26-4a73-8804-cfd33cf4706e"
+    "sharingLinkUrl": "https://catalogue.envri.eu/?share=9170d2d8-cd2b-4d45-b40c-b0c6ea016591"
   }, 
   {
     "ECV": "ECV",
     "title": "Chlorophyll-a - CHLA",
     "description": "Data from ARGO on EXV33 in Europe: CHLA. ERDDAP data access service to Argo Float ocean chorophyll-a. The service is parameterized so that only data with good values and good spatio-temporal coordinates are collected and shown on the map. Chlorophyll-a parameter corresponds to https://vocab.nerc.ac.uk/collection/EXV/current/EXV033 (The EXV table is a programming implementation of Essential Variables including GCOS-defined Essential Climate Variables - https://gcos.wmo.int/site/global-climate-observing-system-gcos/essential-climate-variables/ - and of GOOS-defined Essential Ocean Variables - https://goosocean.org/what-we-do/framework/essential-ocean-variables/).",
     "listOfServices": ["Argo - EXV33 - CHLA"],
-    "sharingLinkUrl": "https://catalogue.staging.envri.eu/?share=460dda23-0ff6-4d17-9960-0dbd476fafbc"
+    "sharingLinkUrl": "https://catalogue.envri.eu/?share=14acb3a2-2708-42e6-8648-57d9bee2c1f0"
   }, 
   {
     "ECV": "ECV",
     "title": "Ocean particle backscattering at 700 nm",
     "description": "Data from ARGO on EXV33 in Europe: BBP700. ERDDAP data access service to Argo Float ocean particle backscattering at 700 nm. The service is parameterized so that only data with good values and good spatio-temporal coordinates are collected and shown on the map. Particle backscattering at 700 nm parameter corresponds to https://vocab.nerc.ac.uk/collection/EXV/current/EXV033 (The EXV table is a programming implementation of Essential Variables including GCOS-defined Essential Climate Variables - https://gcos.wmo.int/site/global-climate-observing-system-gcos/essential-climate-variables/ - and of GOOS-defined Essential Ocean Variables - https://goosocean.org/what-we-do/framework/essential-ocean-variables/).",
     "listOfServices": ["Argo - EXV33 - BBP700"],
-    "sharingLinkUrl": "https://catalogue.staging.envri.eu/?share=7b69412c-edb2-412d-afc3-ff729bbcf98c"
+    "sharingLinkUrl": "https://catalogue.envri.eu/?share=689d88a8-bcc2-4abf-bb6c-742040f53036"
   }, 
   {
     "ECV": "ECV",
     "title": "Irradiance in Europe",
     "description": "Data from ARGO on EXV33 in Europe: Irradiance. ERDDAP data access service to Argo Float irradiance. The service is parameterized so that only data with good values and good spatio-temporal coordinates are collected and shown on the map. Irradiance parameter corresponds to https://vocab.nerc.ac.uk/collection/EXV/current/EXV033 (The EXV table is a programming implementation of Essential Variables including GCOS-defined Essential Climate Variables - https://gcos.wmo.int/site/global-climate-observing-system-gcos/essential-climate-variables/ - and of GOOS-defined Essential Ocean Variables - https://goosocean.org/what-we-do/framework/essential-ocean-variables/).",
     "listOfServices": ["Argo - EXV33 - IRRADIANCE"],
-    "sharingLinkUrl": "https://catalogue.staging.envri.eu/?share=53da2f7c-3ac9-4865-93d4-00998a6cc0d3"
+    "sharingLinkUrl": "https://catalogue.envri.eu/?share=74f4f7c6-b2ad-4e40-aafd-d616890eeb5f"
   }
 ]
